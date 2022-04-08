@@ -1,0 +1,25 @@
+{
+  "name": "algo-talvez-bom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenrichRB/algo-talvez-bom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenrichRB/algo-talvez-bom/issues"
+  },
+  "homepage": "https://github.com/HenrichRB/algo-talvez-bom#readme",
+  "dependencies": {
+    "next": "^12.1.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
